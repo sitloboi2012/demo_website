@@ -17,6 +17,11 @@ driver = webdriver.Chrome(options=options)
 nlp = spacy.load("ner-model-best")
 
 
+def compare_text(product_input, product_list):
+    
+    
+    return most_similar_product
+
 def ocr_text(path):
     """
     OCR Model

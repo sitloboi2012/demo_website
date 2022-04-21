@@ -1,9 +1,6 @@
 pdfplumber
 camelot-py
 spacy==3.2.4
-spacy-alignment==0.8.5
-spacy-legacy==3.0.9
-spacy-streamlit==1.0.3
 spacy-transformers==1.1.5
 webdriver-manager==3.5.4
 wandb

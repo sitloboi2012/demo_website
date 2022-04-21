@@ -1,0 +1,14 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+.line {
+    margin:5px 0;
+    height:2px;
+    background:
+      repeating-linear-gradient(to right,black 0,black 10px,transparent 10px,transparent 12px)
+      /*10px red then 2px transparent -> repeat this!*/
+  }

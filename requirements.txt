@@ -1,0 +1,15 @@
+pdfplumber
+camelot-py
+spacy==3.2.4
+spacy-alignment==0.8.5
+spacy-legacy==3.0.9
+spacy-streamlit==1.0.3
+spacy-transformers==1.1.5
+webdriver-manager==3.5.4
+wandb
+PyPDF2
+tk
+streamlit==1.5.1
+opencv-python-headless==4.5.3.56
+ghostscript
+selenium==4.1.0
